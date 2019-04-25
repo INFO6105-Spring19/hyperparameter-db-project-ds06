@@ -1,0 +1,9 @@
+Model Name,histogram_type_default,histogram_type_actual,ntrees_default,ntrees_actual,max_depth_default,max_depth_actual,min_rows_default,min_rows_actual,learn_rate_default,learn_rate_actual,sample_rate_default,sample_rate_actual,col_sample_rate_default,col_sample_rate_actual,col_sample_rate_per_tree_default,col_sample_rate_per_tree_actual,min_split_improvement_default,min_split_improvement_actual
+GBM_grid_1_AutoML_20190419_003540_model_2,AUTO,AUTO,50,94,5,7,10.0,10.0,0.1,0.05,1.0,0.8,1.0,0.4,1.0,0.4,1e-05,1e-05
+GBM_3_AutoML_20190419_003540,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_2_AutoML_20190419_003540,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_4_AutoML_20190419_003540,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_1_AutoML_20190419_003540,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_grid_1_AutoML_20190419_003540_model_1,AUTO,AUTO,50,279,5,16,10.0,30.0,0.1,0.01,1.0,0.9,1.0,1.0,1.0,0.7,1e-05,1e-05
+GBM_5_AutoML_20190419_003540,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_grid_1_AutoML_20190419_003540_model_3,AUTO,AUTO,50,6,5,17,10.0,100.0,0.1,0.005,1.0,0.8,1.0,0.4,1.0,0.7,1e-05,1e-05

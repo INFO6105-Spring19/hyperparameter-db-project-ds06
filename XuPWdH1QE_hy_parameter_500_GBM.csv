@@ -1,0 +1,15 @@
+Model Name,histogram_type_default,histogram_type_actual,ntrees_default,ntrees_actual,max_depth_default,max_depth_actual,min_rows_default,min_rows_actual,learn_rate_default,learn_rate_actual,sample_rate_default,sample_rate_actual,col_sample_rate_default,col_sample_rate_actual,col_sample_rate_per_tree_default,col_sample_rate_per_tree_actual,min_split_improvement_default,min_split_improvement_actual
+GBM_2_AutoML_20190421_220819,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_3_AutoML_20190421_220819,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_4_AutoML_20190421_220819,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_1_AutoML_20190421_220819,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_grid_1_AutoML_20190421_220819_model_3,AUTO,AUTO,50,261,5,17,10.0,10.0,0.1,0.01,1.0,0.7,1.0,1.0,1.0,1.0,1e-05,1e-05
+GBM_grid_1_AutoML_20190421_220819_model_1,AUTO,AUTO,50,122,5,17,10.0,100.0,0.1,0.05,1.0,0.8,1.0,0.7,1.0,0.4,1e-05,1e-05
+GBM_5_AutoML_20190421_220819,AUTO,AUTO,50,54,5,15,10.0,100.0,0.1,0.1,1.0,0.8,1.0,0.8,1.0,0.8,1e-05,1e-05
+GBM_grid_1_AutoML_20190421_220819_model_5,AUTO,AUTO,50,30,5,17,10.0,15.0,0.1,0.5,1.0,0.6,1.0,0.7,1.0,0.7,1e-05,0.0001
+GBM_grid_1_AutoML_20190421_220819_model_2,AUTO,AUTO,50,31,5,8,10.0,30.0,0.1,0.8,1.0,0.5,1.0,0.7,1.0,1.0,1e-05,0.0001
+GBM_grid_1_AutoML_20190421_220819_model_6,AUTO,AUTO,50,123,5,10,10.0,1.0,0.1,0.005,1.0,0.8,1.0,0.7,1.0,0.7,1e-05,0.0001
+GBM_grid_1_AutoML_20190421_220819_model_9,AUTO,AUTO,50,1,5,11,10.0,1.0,0.1,0.1,1.0,0.9,1.0,0.7,1.0,1.0,1e-05,1e-05
+GBM_grid_1_AutoML_20190421_220819_model_8,AUTO,AUTO,50,10,5,11,10.0,1.0,0.1,0.008,1.0,0.8,1.0,1.0,1.0,0.4,1e-05,0.0001
+GBM_grid_1_AutoML_20190421_220819_model_4,AUTO,AUTO,50,30,5,7,10.0,5.0,0.1,0.001,1.0,0.5,1.0,0.7,1.0,0.7,1e-05,1e-05
+GBM_grid_1_AutoML_20190421_220819_model_7,AUTO,AUTO,50,21,5,13,10.0,5.0,0.1,0.001,1.0,0.6,1.0,1.0,1.0,1.0,1e-05,0.0001

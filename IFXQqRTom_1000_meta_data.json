@@ -1,0 +1,20 @@
+{
+    "project": null,
+    "run_time": 1000,
+    "run_id": "IFXQqRTom",
+    "start_time_sec": 1555984926.7260952,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "max_models": null,
+    "scale": false,
+    "model_path": null,
+    "server_path": null,
+    "data_path": null,
+    "run_path": null,
+    "nthreads": 1,
+    "analysis": 0,
+    "end_time_sec": 1555984926.726096,
+    "model_execution_time_sec": 1695.2493550777435,
+    "Models_generated": 100,
+    "end_time": 1555985928.041172
+}

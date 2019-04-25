@@ -1,0 +1,17 @@
+Model Name,epochs_default,epochs_actual,activation_default,activation_actual,rho_default,rho_actual,epsilon_default,epsilon_actual,input_dropout_ratio_default,input_dropout_ratio_actual,hidden_default,hidden_actual,hidden_dropout_ratios_default,hidden_dropout_ratios_actual
+DeepLearning_grid_1_AutoML_20190421_220819_model_3,10.0,7.686301369863014,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-08,0.0,0.2,[200, 200],[500, 500],None,[0.4, 0.4]
+DeepLearning_grid_1_AutoML_20190422_142045_model_5,10.0,5.506164383561644,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-06,0.0,0.1,[200, 200],[200, 200, 200],None,[0.4, 0.4, 0.4]
+DeepLearning_grid_1_AutoML_20190422_141015_model_3,10.0,9.6,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-08,0.0,0.05,[200, 200],[500, 500],None,[0.1, 0.1]
+DeepLearning_1_AutoML_20190422_141015,10.0,10.379623287671233,Rectifier,Rectifier,0.99,0.99,1e-08,1e-08,0.0,0.0,[200, 200],[10, 10, 10],None,None
+DeepLearning_grid_1_AutoML_20190421_220819_model_4,10.0,4.786301369863013,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-08,0.0,0.0,[200, 200],[500, 500, 500],None,[0.0, 0.0, 0.0]
+DeepLearning_1_AutoML_20190421_220819,10.0,10.404623287671232,Rectifier,Rectifier,0.99,0.99,1e-08,1e-08,0.0,0.0,[200, 200],[10, 10, 10],None,None
+DeepLearning_grid_1_AutoML_20190421_220819_model_2,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-07,0.0,0.05,[200, 200],[500],None,[0.4]
+DeepLearning_grid_1_AutoML_20190422_141015_model_1,10.0,17.6,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-08,0.0,0.05,[200, 200],[200],None,[0.2]
+DeepLearning_grid_1_AutoML_20190422_141015_model_4,10.0,51.2,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-06,0.0,0.05,[200, 200],[50, 50, 50],None,[0.2, 0.2, 0.2]
+DeepLearning_grid_1_AutoML_20190422_142045_model_1,10.0,137.6,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-09,0.0,0.2,[200, 200],[50],None,[0.0]
+DeepLearning_1_AutoML_20190422_142045,10.0,10.418321917808218,Rectifier,Rectifier,0.99,0.99,1e-08,1e-08,0.0,0.0,[200, 200],[10, 10, 10],None,None
+DeepLearning_grid_1_AutoML_20190422_142045_model_3,10.0,5.803082191780822,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-09,0.0,0.2,[200, 200],[500, 500],None,[0.2, 0.2]
+DeepLearning_grid_1_AutoML_20190422_141015_model_2,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-06,0.0,0.2,[200, 200],[200],None,[0.4]
+DeepLearning_grid_1_AutoML_20190422_142045_model_4,10.0,23.893493150684932,Rectifier,RectifierWithDropout,0.99,0.99,1e-08,1e-06,0.0,0.05,[200, 200],[200, 200, 200],None,[0.4, 0.4, 0.4]
+DeepLearning_grid_1_AutoML_20190422_142045_model_2,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-09,0.0,0.1,[200, 200],[500],None,[0.0]
+DeepLearning_grid_1_AutoML_20190421_220819_model_1,10.0,20.8,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-06,0.0,0.05,[200, 200],[200],None,[0.3]
