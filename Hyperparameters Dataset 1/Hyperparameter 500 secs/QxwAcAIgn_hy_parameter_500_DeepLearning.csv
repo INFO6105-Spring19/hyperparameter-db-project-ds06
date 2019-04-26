@@ -1,0 +1,9 @@
+Model Name,epochs_default,epochs_actual,activation_default,activation_actual,rho_default,rho_actual,epsilon_default,epsilon_actual,input_dropout_ratio_default,input_dropout_ratio_actual,hidden_default,hidden_actual,hidden_dropout_ratios_default,hidden_dropout_ratios_actual
+DeepLearning_grid_1_AutoML_20190426_123333_model_4,10.0,76.8,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-09,0.0,0.0,[200, 200],[50, 50],None,[0.5, 0.5]
+DeepLearning_grid_1_AutoML_20190426_123333_model_7,10.0,36.8,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-07,0.0,0.1,[200, 200],[50, 50, 50],None,[0.0, 0.0, 0.0]
+DeepLearning_grid_1_AutoML_20190426_123333_model_5,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-06,0.0,0.1,[200, 200],[50, 50],None,[0.3, 0.3]
+DeepLearning_1_AutoML_20190426_123333,10.0,10.453253424657536,Rectifier,Rectifier,0.99,0.99,1e-08,1e-08,0.0,0.0,[200, 200],[10, 10, 10],None,None
+DeepLearning_grid_1_AutoML_20190426_123333_model_2,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.9,1e-08,1e-08,0.0,0.0,[200, 200],[50],None,[0.5]
+DeepLearning_grid_1_AutoML_20190426_123333_model_3,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.99,1e-08,1e-06,0.0,0.15,[200, 200],[50],None,[0.0]
+DeepLearning_grid_1_AutoML_20190426_123333_model_6,10.0,8.0,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-09,0.0,0.0,[200, 200],[50, 50],None,[0.4, 0.4]
+DeepLearning_grid_1_AutoML_20190426_123333_model_1,10.0,25.6,Rectifier,RectifierWithDropout,0.99,0.95,1e-08,1e-06,0.0,0.15,[200, 200],[200],None,[0.3]

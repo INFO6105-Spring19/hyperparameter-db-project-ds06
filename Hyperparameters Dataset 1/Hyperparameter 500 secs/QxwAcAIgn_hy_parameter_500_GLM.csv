@@ -1,0 +1,2 @@
+Model Name,alpha_default,alpha_actual,missing_values_handling_default,missing_values_handling_actual
+GLM_grid_1_AutoML_20190426_123333_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
