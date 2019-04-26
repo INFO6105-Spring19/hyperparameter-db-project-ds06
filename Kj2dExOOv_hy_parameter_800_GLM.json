@@ -1,0 +1,263 @@
+{
+    "model_id": {
+        "default": null,
+        "actual": {
+            "__meta": {
+                "schema_version": 3,
+                "schema_name": "ModelKeyV3",
+                "schema_type": "Key<Model>"
+            },
+            "name": "GLM_grid_1_AutoML_20190426_094131_model_1",
+            "type": "Key<Model>",
+            "URL": "/3/Models/GLM_grid_1_AutoML_20190426_094131_model_1"
+        }
+    },
+    "training_frame": {
+        "default": null,
+        "actual": {
+            "__meta": {
+                "schema_version": 3,
+                "schema_name": "FrameKeyV3",
+                "schema_type": "Key<Frame>"
+            },
+            "name": "automl_training_training_data.hex",
+            "type": "Key<Frame>",
+            "URL": "/3/Frames/automl_training_training_data.hex"
+        }
+    },
+    "validation_frame": {
+        "default": null,
+        "actual": null
+    },
+    "nfolds": {
+        "default": 0,
+        "actual": 5
+    },
+    "seed": {
+        "default": -1,
+        "actual": 9097555263444202027
+    },
+    "keep_cross_validation_models": {
+        "default": true,
+        "actual": false
+    },
+    "keep_cross_validation_predictions": {
+        "default": false,
+        "actual": true
+    },
+    "keep_cross_validation_fold_assignment": {
+        "default": false,
+        "actual": false
+    },
+    "fold_assignment": {
+        "default": "AUTO",
+        "actual": "Modulo"
+    },
+    "fold_column": {
+        "default": null,
+        "actual": null
+    },
+    "response_column": {
+        "default": null,
+        "actual": {
+            "__meta": {
+                "schema_version": 3,
+                "schema_name": "ColSpecifierV3",
+                "schema_type": "VecSpecifier"
+            },
+            "column_name": "vendor_id",
+            "is_member_of_frames": null
+        }
+    },
+    "ignored_columns": {
+        "default": null,
+        "actual": []
+    },
+    "ignore_const_cols": {
+        "default": true,
+        "actual": true
+    },
+    "score_each_iteration": {
+        "default": false,
+        "actual": false
+    },
+    "offset_column": {
+        "default": null,
+        "actual": null
+    },
+    "weights_column": {
+        "default": null,
+        "actual": null
+    },
+    "family": {
+        "default": "gaussian",
+        "actual": "gaussian"
+    },
+    "tweedie_variance_power": {
+        "default": 0.0,
+        "actual": 0.0
+    },
+    "tweedie_link_power": {
+        "default": 1.0,
+        "actual": 1.0
+    },
+    "theta": {
+        "default": 1e-10,
+        "actual": 1e-10
+    },
+    "solver": {
+        "default": "AUTO",
+        "actual": "COORDINATE_DESCENT"
+    },
+    "alpha": {
+        "default": null,
+        "actual": [
+            0.0,
+            0.2,
+            0.4,
+            0.6,
+            0.8,
+            1.0
+        ]
+    },
+    "lambda": {
+        "default": null,
+        "actual": [
+            14.335587446796643,
+            8.902642676428709,
+            5.528691929669063,
+            3.4334113548236376,
+            2.1322066198283385,
+            1.3241364345267381,
+            0.8223111592169908,
+            0.5106691613802405,
+            0.3171342009186853,
+            0.196945711623746,
+            0.1223066235512361,
+            0.07595448533087108,
+            0.04716902220312503,
+            0.02929276192059987,
+            0.018191301427488517,
+            0.011297106381526516,
+            0.007015694457279242,
+            0.0043568651171051334,
+            0.00270568705125865
+        ]
+    },
+    "lambda_search": {
+        "default": false,
+        "actual": true
+    },
+    "early_stopping": {
+        "default": true,
+        "actual": true
+    },
+    "nlambdas": {
+        "default": -1,
+        "actual": 30
+    },
+    "standardize": {
+        "default": true,
+        "actual": true
+    },
+    "missing_values_handling": {
+        "default": "MeanImputation",
+        "actual": "MeanImputation"
+    },
+    "compute_p_values": {
+        "default": false,
+        "actual": false
+    },
+    "remove_collinear_columns": {
+        "default": false,
+        "actual": false
+    },
+    "intercept": {
+        "default": true,
+        "actual": true
+    },
+    "non_negative": {
+        "default": false,
+        "actual": false
+    },
+    "max_iterations": {
+        "default": -1,
+        "actual": 300
+    },
+    "objective_epsilon": {
+        "default": -1.0,
+        "actual": 0.0001
+    },
+    "beta_epsilon": {
+        "default": 0.0001,
+        "actual": 0.0001
+    },
+    "gradient_epsilon": {
+        "default": -1.0,
+        "actual": 1.0000000000000002e-06
+    },
+    "link": {
+        "default": "family_default",
+        "actual": "identity"
+    },
+    "prior": {
+        "default": -1.0,
+        "actual": -1.0
+    },
+    "lambda_min_ratio": {
+        "default": -1.0,
+        "actual": 1.0000000000000002e-06
+    },
+    "beta_constraints": {
+        "default": null,
+        "actual": null
+    },
+    "max_active_predictors": {
+        "default": -1,
+        "actual": 5000
+    },
+    "interactions": {
+        "default": null,
+        "actual": null
+    },
+    "interaction_pairs": {
+        "default": null,
+        "actual": null
+    },
+    "obj_reg": {
+        "default": -1.0,
+        "actual": 6.855701201118851e-07
+    },
+    "export_checkpoints_dir": {
+        "default": null,
+        "actual": null
+    },
+    "balance_classes": {
+        "default": false,
+        "actual": false
+    },
+    "class_sampling_factors": {
+        "default": null,
+        "actual": null
+    },
+    "max_after_balance_size": {
+        "default": 5.0,
+        "actual": 5.0
+    },
+    "max_confusion_matrix_size": {
+        "default": 20,
+        "actual": 20
+    },
+    "max_hit_ratio_k": {
+        "default": 0,
+        "actual": 0
+    },
+    "max_runtime_secs": {
+        "default": 0.0,
+        "actual": 0.0
+    },
+    "custom_metric_func": {
+        "default": null,
+        "actual": null
+    }
+}
