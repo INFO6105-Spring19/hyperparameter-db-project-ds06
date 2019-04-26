@@ -1,0 +1,31 @@
+{
+    "project": null,
+    "run_time": 1500,
+    "run_id": "Kj2dExOOv",
+    "start_time_sec": 1556286933.3817422,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "max_models": null,
+    "scale": false,
+    "model_path": null,
+    "server_path": null,
+    "data_path": null,
+    "run_path": null,
+    "nthreads": 1,
+    "analysis": 0,
+    "end_time_sec": 1556286933.3817422,
+    "variables": [
+        "pickup_datetime",
+        "dropoff_datetime",
+        "passenger_count",
+        "pickup_longitude",
+        "pickup_latitude",
+        "dropoff_longitude",
+        "dropoff_latitude",
+        "trip_duration",
+        "haversine_distance",
+        "store_and_fwd_flag_Y"
+    ],
+    "model_execution_time_sec": 1504.9285984039307,
+    "end_time": 1556288439.7639866
+}
