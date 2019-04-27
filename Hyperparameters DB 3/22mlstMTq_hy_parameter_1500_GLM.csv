@@ -1,0 +1,7 @@
+Model Name,alpha_default,alpha_actual,missing_values_handling_default,missing_values_handling_actual
+GLM_grid_1_AutoML_20190426_093335_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
+GLM_grid_1_AutoML_20190426_094045_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
+GLM_grid_1_AutoML_20190426_210356_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
+GLM_grid_1_AutoML_20190426_203923_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
+GLM_grid_1_AutoML_20190426_204449_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
+GLM_grid_1_AutoML_20190426_212301_model_1,None,[0.0, 0.2, 0.4, 0.6, 0.8, 1.0],MeanImputation,MeanImputation
